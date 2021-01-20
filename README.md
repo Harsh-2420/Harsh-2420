@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
 
-- 📫 You can reach me at **harsh.jhunjhunwala@mail.utoronto.ca**
-
 - ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
 
 ### Social
@@ -25,6 +23,7 @@ Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-2420&show_icons=true&theme=radical&hide_border=true">
   <br/>
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
-  <br />
+  <br/>
+   <br/>
   <small>Languages used in my public repos - I *love* Jupyter 😛</small>
 </div>
