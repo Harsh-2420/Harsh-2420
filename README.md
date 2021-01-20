@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm Harsh
 
 <!--
 **Harsh-2420/Harsh-2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
