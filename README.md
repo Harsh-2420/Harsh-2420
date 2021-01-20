@@ -21,8 +21,10 @@ Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.
 
 
 <hr />
+<div align="center">
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Harsh-2420&show_icons=true&hide_border=true&theme=radical" />
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical" />
+</div>
 
 <div align="center">
   <small>Languages used in my public repos - I *love* Jupyter 😛</small>
