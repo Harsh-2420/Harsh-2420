@@ -7,12 +7,8 @@
 
 - 👯 I'm currently learning to build models for **audio processing** for an upcoming project in March.
 
-- 👨‍💻 All of my public projects are available at [https://github.com/Harsh2420](https://github.com/Harsh-2420)
-
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
 
 - 📫 You can reach me at **harsh.jhunjhunwala@mail.utoronto.ca**
 
 - ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
-
-- 🎧  If you haven't tried it yet, look up [Pudding] (https://pudding.cool/2020/12/judge-my-spotify/)
