@@ -22,6 +22,7 @@ Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-2420&show_icons=true&theme=radical&hide_border=true">
   <br/>
+    <br />
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
   <br/>
    <br/>
