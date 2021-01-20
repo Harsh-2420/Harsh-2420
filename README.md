@@ -12,3 +12,18 @@
 - 📫 You can reach me at **harsh.jhunjhunwala@mail.utoronto.ca**
 
 - ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
+
+### Social
+Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.utoronto.ca) or my [LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/).
+
+
+
+
+
+<hr />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Harsh-2420&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical" />
+
+<div align="center">
+  <small>Languages used in my public repos - I *love* Jupyter 😛</small>
+</div>
