@@ -1,11 +1,11 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Harsh</h1>
 <h3 align="center">I'm an entrepreneur, student and a Data Science enthusiast </h3>
 
-- 🔭 My current projects include [Findr](https://findrapp.ca/), Fixit, Codify and Dathena.
+- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf), [Spotify](https://github.com/Harsh-2420/spotify), [facial-keypoint](https://github.com/Harsh-2420/facial_keypoint) and Dathena.
 
-- 🌱 Most of the projects I have worked on are using private repositories (yeah, bummer!). Contact me, if you want more information about them
+- 🌱 Some of the projects I have worked on are using private repositories (yeah, bummer!). Contact me, if you want more information about them
 
-- 👯 I'm currently learning to build models for **audio processing** for an upcoming project in March.
+- 👯 I'm currently learning to deploy models on AWS and learning Flask.
 
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
 
