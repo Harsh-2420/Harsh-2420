@@ -1,22 +1,18 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Harsh</h1>
-<h3 align="center">I'm an entrepreneur, student and a Data Science enthusiast </h3>
+<h3 align="center">I'm an entrepreneur, student and an aspiring Data Scientist </h3>
 
-- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf), [Spotify](https://github.com/Harsh-2420/spotify), [facial-keypoint](https://github.com/Harsh-2420/facial_keypoint) and Dathena.
+- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotify](https://github.com/Harsh-2420/spotify).
 
-- 🌱 Some of the projects I have worked on are using private repositories (yeah, bummer!). Contact me, if you want more information about them
+- 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
 
-- 👯 I'm currently learning to deploy models on AWS and learning Flask.
+- 👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.
 
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
 
 - ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
 
 ### Social
-Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.utoronto.ca) or my [LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/).
-
-
-
-
+Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.utoronto.ca) or my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/)
 
 <hr />
 <div align="center">
