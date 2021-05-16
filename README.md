@@ -11,8 +11,14 @@
 
 - ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
 
+### Skills
+I am experienced in:
+- Statistical Modelling and Data Analysis with Python, R, SQL, Plotly and Tableau.
+- Data Science and Machine Learning using Keras, sklearn, Pytorch
+- Deployment with Flask, Heroku, AWS, Docker, React and NodeJS
+
 ### Social
-Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.utoronto.ca) or my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/)
+Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwala@mail.utoronto.ca) or my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/)
 
 <hr />
 <div align="center">
@@ -24,6 +30,12 @@ Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.
    <br/>
   <small>Languages used in my public repos - I *love* Jupyter 😛</small>
   </div>
+  
+  
+  
+  
+  
+  
   
 ### Languages and Tools:
 
