@@ -25,7 +25,7 @@ Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwal
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-2420&show_icons=true&theme=radical&hide_border=true">
   <br/>
     <br />
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+<!--   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" /> -->
   <br/>
    <br/>
   <small>Languages used in my public repos - I *love* Jupyter 😛</small>
