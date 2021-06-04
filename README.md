@@ -26,7 +26,7 @@ Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwal
   <br/>
     <br />
 
-  <!--   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" /> -->
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
 <!--   <br/>
    <br/>
   <small>Languages used in my public repos - I *love* Jupyter 😛</small> -->
@@ -49,6 +49,6 @@ Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwal
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
