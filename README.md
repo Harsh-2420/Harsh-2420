@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Harsh</h1>
 <h3 align="center">I'm an entrepreneur, student and an aspiring Data Scientist </h3>
 
-- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotify](https://github.com/Harsh-2420/spotify).
+- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotty](https://github.com/Harsh-2420/spotify).
 
 - 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
 
@@ -25,11 +25,14 @@ Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwal
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-2420&show_icons=true&theme=radical&hide_border=true">
   <br/>
     <br />
-<!--   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" /> -->
-  <br/>
+
+  <!--   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Harsh-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" /> -->
+<!--   <br/>
    <br/>
-  <small>Languages used in my public repos - I *love* Jupyter 😛</small>
-  </div>
+  <small>Languages used in my public repos - I *love* Jupyter 😛</small> -->
+
+
+</div>
   
   
   
@@ -43,8 +46,9 @@ Almost forgot.. you can connect with me through [Email](mailto:harsh.jhunjhunwal
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
