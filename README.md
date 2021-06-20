@@ -33,6 +33,10 @@ I am experienced in:
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+  <a href="https://harsh-2420.github.io/">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=1a5d57&style=for-the-badge&logo=SingleStore&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
 </p>
 
 
