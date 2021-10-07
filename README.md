@@ -3,13 +3,13 @@
 
 - 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotty](https://github.com/Harsh-2420/spotify).
 
-- 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
+- 🌱 Check out some of my Projects below - Spotty, Kaggle,
 
 - 👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.
 
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
 
-- ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
+- ⚡ What else... ah, yes, my favorite band is probably Bastille.
 
 ### Skills
 I am experienced in:
