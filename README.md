@@ -15,7 +15,7 @@
 I am experienced in:
 - Statistical Modelling and Data Analysis with Python, R, SQL, Plotly and Tableau.
 - Data Science and Machine Learning using Keras, sklearn, Pytorch
-- Deployment with Flask, Heroku, AWS, Docker, React and NodeJS
+- Flask, Heroku, AWS, Docker, React and NodeJS
 
 <p align='center'>
 
