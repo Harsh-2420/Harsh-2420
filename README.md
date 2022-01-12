@@ -1,15 +1,15 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Harsh</h1>
 <h3 align="center">I'm an entrepreneur, student and an aspiring Data Scientist </h3>
 
-- 🔭 My current projects include [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotty](https://github.com/Harsh-2420/spotify).
+- 🌱 Check out some of my past Projects here - [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotty](https://github.com/Harsh-2420/spotify).
+ 
+- 🔭 I'm currently working as an Azure DevOps Admin at Execusoft Solutions.
 
-- 🌱 Check out some of my Projects below - Spotty, Kaggle,
+- 👯 Also, working on a paper on Information Theory with a focus on a psuedo-Bayes perspective and non-parametric estimation.
 
-- 👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.
+- 💬 Ask me about **Machine Learning, Data Science** and maybe some **DevOps** but go easy on that last one!
 
-- 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
-
-- ⚡ What else... ah, yes, my favorite band is probably Bastille.
+- ⚡ What else... ah, yes, my favorite band is probably Arctic Monkeys!
 
 ### Skills
 I am experienced in:
