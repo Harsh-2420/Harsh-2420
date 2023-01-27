@@ -3,7 +3,7 @@
 
 - 🌱 Check out some of my past Projects here - [Findr](https://findrapp.ca/), [Fixit](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) and [Spotty](https://github.com/Harsh-2420/spotify).
  
-- 🔭 I'm currently working as an Azure DevOps Admin at Execusoft Solutions.
+- 🔭 I'm currently working as a Data Scientist at Publicis Sapient.
 
 - 👯 Also, working on a paper on Information Theory with a focus on a psuedo-Bayes perspective and non-parametric estimation.
 
